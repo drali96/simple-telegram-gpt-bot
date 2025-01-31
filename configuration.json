@@ -3,7 +3,7 @@
         "model": "gpt-4o",
         "temperature": 0.8,
         "max_tokens": null,
-        "system_prompt": "You are a chatbot, having conversations with Telegram user.",
+        "system_prompt": "You are a medical assistant.",
         "chat_history": []
     },
     "valid_models": {
